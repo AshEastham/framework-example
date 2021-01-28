@@ -20,3 +20,8 @@ footer {
     padding: 30px;
     text-align: center;
 }
+
+.video {
+    height: 400px;
+    width: 100%;
+}
